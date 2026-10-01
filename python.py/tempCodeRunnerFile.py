@@ -1,0 +1,1 @@
+university.update("location : malakand")
